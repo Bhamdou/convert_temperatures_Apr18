@@ -1,0 +1,3 @@
+This code creates a simple application to convert temperatures between Fahrenheit and Celsius.
+The user can enter the temperature and choose the required unit for conversion, and the result will be displayed
+in a designated place in the application.
